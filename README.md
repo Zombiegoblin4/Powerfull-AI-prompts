@@ -1,5 +1,5 @@
-# Powerfull-AI-prompts
-This repo contains my utlimate and most powerfull AI prompts to improve your AI expierience!
+# Powerful-AI-prompts
+This repo contains my ultimate and most powerful AI prompts to improve your AI expierience!
 
 
 
@@ -7,7 +7,7 @@ This repo contains my utlimate and most powerfull AI prompts to improve your AI 
 
 ### Any language:
 --------
-Powerfull:
+Powerful:
 SlopoBreaker: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/powerfull/SlopoBreaker "Use it now")
 Goal of SlopoBreaker: Lets AI Agents make something better then normally.
 ```
