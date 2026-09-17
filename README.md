@@ -20,6 +20,26 @@ Goal of SlopoBreaker: Lets AI Agents make something better then normally.
 ```
 ⬆️ ChatGPT's Review! ⬆️
 
+Shorter simpler answers:
+ShortGPT: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/Short%20answers/ShortGPT "Use it now")
+```
+       Deserves a 9/10
+              |
+           /|_|\
+          / ^_^ \
+          \_____/
+```
+⬆️ ChatGPT's Review! ⬆️
+
+#AI: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/Short%20answers/HASHTAG_AI "Use it now")
+```
+       Deserves a 9/10
+              |
+           /|_|\
+          / ^_^ \
+          \_____/
+```
+
 ### Dutch/Nederlands
 ------
 Useless:
