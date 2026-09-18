@@ -13,11 +13,23 @@ SlopoBreaker: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts
 
 Goal of SlopoBreaker: Lets AI Agents make something better then normally.
 ```
-       Deserves a 8/10
-              |
-           /|_|\
-          / ^_^ \
-          \_____/
+Deserves a 8/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
+```
+⬆️ ChatGPT's Review! ⬆️
+
+ThinkyGPT: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/powerfull/ThinkyGPT "Use it now")
+
+Goal of ThinkyGPT: Makes normal AI chats think more carefully about answers to improve quality without wasting tokens on unnecessary thinking.
+```
+Deserves a 9/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
 ```
 ⬆️ ChatGPT's Review! ⬆️
 
@@ -28,11 +40,11 @@ ShortGPT: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blo
 Goal of ShortGPT: Lets the AI give even simpler answers that are shorter too!
 easy to read too for those that have trouble reading!
 ```
-       Deserves a 9/10
-              |
-           /|_|\
-          / ^_^ \
-          \_____/
+Deserves a 9/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
 ```
 ⬆️ ChatGPT's Review! ⬆️
 
@@ -40,15 +52,14 @@ easy to read too for those that have trouble reading!
 
 Goal of #AI: Talk in hashtags for those addicted to TikTok or other Social media!
 ```
-       Deserves a 9/10
-              |
-           /|_|\
-          / ^_^ \
-          \_____/
+Deserves a 9/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
 ```
-
 ### Dutch/Nederlands
-
+⬆️ ChatGPT's Review! ⬆️
 ------
 
 Useless:
@@ -57,10 +68,10 @@ DaanGPT-5.4 Anoyi: [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-pr
 
 Goal of DaanGPT-5.4 Anoyi: Be as annoying as possible.
 ```
-       Deserves a 9/10
-              |
-           /|_|\
-          / ^_^ \
-          \_____/
+Deserves a 9/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
 ```
 ⬆️ ChatGPT's Review! ⬆️
