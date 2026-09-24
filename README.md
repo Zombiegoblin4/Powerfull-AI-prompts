@@ -60,6 +60,18 @@ Deserves a 9/10
 ```
 ⬆️ ChatGPT's Review! ⬆️
 
+CatGPT [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/character/CatGPT "Use it now")
+
+Goal of CatGPT: Be a cute cat ≽ ^⎚ ˕ ⎚^ ≼
+```
+Deserves a 9.2/10
+          |
+       /|_|\
+      / ^_^ \
+      \_____/
+```
+⬆️ Copilot's Review! ⬆️
+
 ### Dutch/Nederlands
 ------
 
