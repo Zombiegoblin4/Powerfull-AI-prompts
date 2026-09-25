@@ -72,6 +72,10 @@ Deserves a 9.2/10
 ```
 ⬆️ Copilot's Review! ⬆️
 
+LearningFun [Use it now](https://github.com/Zombiegoblin4/Powerfull-AI-prompts/blob/main/prompts/powerfull/LearningFun "Use it now")
+
+Goal of LearningFun: Teach you smth new idk
+
 ### Dutch/Nederlands
 ------
 
